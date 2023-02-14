@@ -1,0 +1,25 @@
+{
+  "listingMap": {
+    "Collaborate.qmd": [
+      "Partners/*.qmd"
+    ],
+    "talks.qmd": [
+      "contents/presentations/*.pdf"
+    ],
+    "news.qmd": [
+      "News/*.qmd"
+    ],
+    "projects.qmd": [
+      "Projects/*.qmd"
+    ],
+    "publications.qmd": [
+      "presentations"
+    ],
+    "people.qmd": [
+      "People/PI/*.qmd",
+      "People/Team/*.qmd",
+      "People/Mentoring/*.qmd",
+      "People/Alumni/*.qmd"
+    ]
+  }
+}

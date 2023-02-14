@@ -1,0 +1,14 @@
+{
+  "hash": "cf3f1111b745362b517dbf7e19d2acb8",
+  "result": {
+    "markdown": "---\ntitle: Prof Aedin Culhane\nabout:\n  template: solana\n  image-width: 10em\n  image-shape: round\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/aedinculhane/  \n    - icon: house-door\n      text: Homepage\n      href: https://www.linkedin.com/in/aedinculhane/  \n    - icon: envelope\n      text: email\n      href: mailto:aedindotculhane@ul.ie\ndescription: \n  Professor, University of Limerick\nimage: ../../contents/photos/people/aedinculhane.png\ncard_style: \"summary_large_image\"\ncategories:\n  - PI\n  - Group Leader\n  - LDCRC\n---\n\n\n## Prof Aedin Culhane\n\nAedín Culhane is a Professor of Biomedical Sciences (Cancer Genomics) in the UL School of Medicine. She is a computational oncologist with expertise in multi-omics data integration, statistical genomics, clinical bioinformatics and genomics in oncology. She has over 20 years' experience in cancer genomics, of which over 15 years were in the [Dana-Farber Cancer Institute](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-data-science/) and [Harvard TH Chan School of Public Health in Boston, USA](https://www.hsph.harvard.edu/biostatistics/). Her recent research focuses on algorithm development and integrative data of single cell molecular data in cancer to identify molecules that regulate and can be targeted during tumour development, progression, drug response and resistance. She is a member of the Human Cell Atlas (https://www.humancellatlas.org ) project. She is a leader in the Bioconductor ([www.bioconductor.org](http://www.bioconductor.org/)) community, a global open source, open development software in R for genomics and an advocate for open source science.\n\n# Publications\n\n[Google Scholar](https://scholar.google.com/citations?user=O8OszPcAAAAJ)\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "683b07f33863168492a0ede603c57708",
+  "result": {
+    "markdown": "---\ntitle: Dr Olywn Mahon \nabout:\n  template: solana\n  image-width: 10em\n  image-shape: round\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/olwyn-mahon-102a8ba8/\n    - icon: house-door\n      text: Homepage\n      href: https://www.homepage.com \n    - icon: envelope\n      text: email\n      href: mailto:AhmaddotAlkhan@ul.ie\n\ndescription: \n  Post doctoral fellow in the McGourty Lab\nimage: ../../contents/photos/people/olwynmahon.jpeg\ncard_style: \"summary_large_image\"\ncategories:\n  - Postdoctorial Fellow\n  - scRNAseq\n---\n\n\n## Dr. Olywn Mahon\n\n## Links\n\n[ORCID](https://orcid.org/..)\n\n# Publications\n\nFull list of publications see [Google Scholar](https://scholar.google.com/..)\n\nRecent publications include\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stderr}\n```\nNo Results.\n```\n:::\n\n::: {.cell-output .cell-output-stdout}\n```\nNULL\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

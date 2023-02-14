@@ -1,0 +1,14 @@
+{
+  "hash": "ab24e7089df3c51424c3a7cb85edb53a",
+  "result": {
+    "markdown": "---\ntitle: Lauren L Hsu\nabout:\n  template: solana\n  image-width: 10em\n  image-shape: round\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/lauren-hsu-155a282a/ \n    - icon: house-door\n      text: Homepage\n      href: https://www.homepage.com \n    - icon: envelope\n      text: email\n      href: mailto:Lauren.Hsu@dfci.harvard.edu\n\ndescription: Graduate Student in Biostatistics at Harvard. Supervisors are Profs Judith Agudo & John Quackenbush \n\nimage: ../../contents/photos/people/laurenhsu.jpeg\ncard_style: \"summary_large_image\"\ncategories:\n  - Graduate Student\n  - Spatial Biology\n  - Human Cell Atlas\n---\n\n\n## Lauren L. Hsu\n\nGraduate Student in Biostatistics at Harvard. Supervisors are Profs Judith Agudo & John Quackenbush\n\n## Links\n\n[ORCID](https://orcid.org/..)\n\n# Publications\n\nFull list of publications see [Google Scholar](https://scholar.google.com/..)\n\nRecent publications include\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] S. Y. Chin, Y. C. Poh, A. Kohler, et al. \"Additive manufacturing of\nhydrogel-based materials for next-generation implantable medical\ndevices\". Eng. In: _Science robotics_ 2.2 (Jan. 2017). ISSN: 2470-9476.\nDOI: 10.1126/scirobotics.aah6451. PMID: 31289767.\n\n[2] L. L. Hsu and A. C. Culhane. \"Correspondence analysis for dimension\nreduction, batch integration, and visualization of single-cell RNA-seq\ndata\". Eng. In: _Scientific reports_ 13.1 (Jan. 2023), p. 1197. ISSN:\n2045-2322. DOI: 10.1038/s41598-022-26434-1. PMID: 36681709.\n\n[3] L. L. Hsu and A. C. Culhane. \"Impact of Data Preprocessing on\nIntegrative Matrix Factorization of Single Cell Data\". Eng. In:\n_Frontiers in oncology_ 10 (Jun. 2020), p. 973. ISSN: 2234-943X. DOI:\n10.3389/fonc.2020.00973. PMID: 32656082.\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

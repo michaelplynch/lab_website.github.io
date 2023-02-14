@@ -1,0 +1,14 @@
+{
+  "hash": "411234674ab4aaa592d0b31097687554",
+  "result": {
+    "markdown": "---\ntitle: Mr Ahmad Alkhan \nabout:\n  template: solana\n  image-width: 10em\n  image-shape: round\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/ahmad-alkhan-31311d/\n    - icon: house-door\n      text: Homepage\n      href: https://www.homepage.com \n    - icon: envelope\n      text: email\n      href: mailto:AhmaddotAlkhan@ul.ie\n\ndescription: \n  Graduate Student. Co Supervisors Elizabeth Ryan & Olwyn Mahon\nimage: ../../contents/photos/people/ahmadalkhan.jpeg\ncard_style: \"summary_large_image\"\ncategories:\n  - PhD Student\n  - Human Cell Atlas\n  - CZI\n---\n\n\n## Mr Ahmad Alkhan\n\n## Links\n\n[ORCID](https://orcid.org/..)\n\n# Publications\n\nFull list of publications see [Google Scholar](https://scholar.google.com/..)\n\nRecent publications include\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] M. F. Ahmad, A. Alim, N. S. Sen, et al. \"Electron microscopic\nstudies of the corpuscles of Stannius of an airbreathing teleost\n(Heteropneustes fossilis)\". Eng. In: _Journal of biosciences_ 27.5\n(Sep. 2002), pp. 509-13. ISSN: 0250-5991. DOI: 10.1007/BF02705048.\nPMID: 12381875.\n\n[2] W. Ahmad, S. Asaf, A. Khan, et al. \"Complete chloroplast genome\nsequencing and comparative analysis of threatened dragon trees Dracaena\nserrulata and Dracaena cinnabari\". Eng. In: _Scientific reports_ 12.1\n(Oct. 2022), p. 16787. ISSN: 2045-2322. DOI:\n10.1038/s41598-022-20304-6. PMID: 36202844.\n\n[3] S. Asaf, W. Ahmad, A. Al-Harrasi, et al. \"Uncovering the first\ncomplete plastome genomics, comparative analyses, and phylogenetic\ndispositions of endemic medicinal plant Ziziphus hajarensis\n(Rhamnaceae)\". Eng. In: _BMC genomics_ 23.1 (Jan. 2022), p. 83. ISSN:\n1471-2164. DOI: 10.1186/s12864-022-08320-2. PMID: 35086490.\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
