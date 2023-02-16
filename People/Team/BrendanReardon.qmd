@@ -1,5 +1,5 @@
 ---
-title: Mr Brendan Rearden
+title: Mr Brendan Reardon
 about:
   template: solana
   image-width: 10em
@@ -7,19 +7,19 @@ about:
   links:
     - icon: twitter
       text: twitter
-      href: https://twitter.com
+      href: https://twitter.com/brendan_reardon
     - icon: github
-      text: Github
-      href: https://github.com
+      text: GitHub
+      href: https://github.com/brendanreardon
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/brendan-reardon-ba3b7247/
     - icon: house-door
       text: Homepage
-      href: https://www.homepage.com 
+      href: https://www.brendanreardon.com
     - icon: envelope
       text: email
-      href: mailto:BrendandotReardon@ul.ie
+      href: mailto:22411216@studentmail.ul.ie
 
 description: 
   Graduate Student (jointly with Prof Eli Van Allen, DFCI)
