@@ -10,7 +10,7 @@ about:
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/michaelplynch
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/michael-lynch-391314187/
@@ -37,7 +37,7 @@ Michael is developing methods for multi omics integration of single cell data fr
 
 ## Links
 
-[ORCID](https://orcid.org/..)
+[ORCID](https://orcid.org/0000-0001-9535-6461)
 
 # Publications
 
