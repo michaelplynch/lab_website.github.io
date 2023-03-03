@@ -1,7 +1,7 @@
 {
-  "hash": "7ee066e688747abb3d750096f827004a",
+  "hash": "e06d866b82a0806132cc1ae28a42df25",
   "result": {
-    "markdown": "---\ntitle: \"Publications\"\nlisting:\n  contents: presentations \n  type: grid\n  grid-columns: 3\n  image-height: 200px\n  categories: true\nbibliography: publications/lab.bib\ncsl: publications/csl/programme-grants-for-applied-research.csl\nnocite: '@*'\nlink-citations: true \n\n---\n\n::: {.cell}\n\n:::\n\n\n### Publications between 2020 - 2023\n\n\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::",
+    "markdown": "---\ntitle: \"Publications\"\nlisting:\n  contents: presentations \n  type: grid\n  grid-columns: 3\n  image-height: 200px\n  categories: true\nbibliography: publications/lab.bib\ncsl: publications/csl/national-institute-of-health-research.csl\nnocite: '@*'\nlink-citations: true \n---\n\n::: {.cell}\n\n:::\n\n\n### Publications between 2020 - 2023\n\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

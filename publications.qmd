@@ -7,10 +7,9 @@ listing:
   image-height: 200px
   categories: true
 bibliography: publications/lab.bib
-csl: publications/csl/programme-grants-for-applied-research.csl
+csl: publications/csl/national-institute-of-health-research.csl
 nocite: '@*'
 link-citations: true 
-
 ---
 
 ```{r, echo=FALSE,message=FALSE}
@@ -19,7 +18,6 @@ year = "2020:2023"
 ```
 
 ### Publications between `r sub(":", " - ", year)`
-
 
 ```{r echo=FALSE,message=FALSE, eval=FALSE}
 source("src/website_functions.R")
