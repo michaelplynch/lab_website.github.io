@@ -32,10 +32,11 @@ categories:
 ---
 
 ## Mr Brendan Reardon
+Brendan Reardon's research focuses on developing algorithms for the clinical interpretation of individual patient molecular data for precision oncology. 
 
 ## Links
 
-[ORCID](https://orcid.org/..)
+[ORCID](https://orcid.org/0000-0002-1716-5720)
 
 # Publications
 
