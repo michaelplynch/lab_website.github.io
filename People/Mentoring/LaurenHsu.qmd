@@ -10,7 +10,7 @@ about:
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/laurenhsu1
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/lauren-hsu-155a282a/ 
@@ -19,7 +19,7 @@ about:
       href: https://www.homepage.com 
     - icon: envelope
       text: email
-      href: mailto:Lauren.Hsu@dfci.harvard.edu
+      href: mailto:Lhsu@g.harvard.edu
 
 description: Graduate Student in Biostatistics at Harvard. Supervisors are Profs Judith Agudo & John Quackenbush 
 
@@ -37,11 +37,11 @@ Graduate Student in Biostatistics at Harvard. Supervisors are Profs Judith Agudo
 
 ## Links
 
-[ORCID](https://orcid.org/..)
+[ORCID](https://orcid.org/0000-0002-6035-7381)
 
 # Publications
 
-Full list of publications see [Google Scholar](https://scholar.google.com/..)
+Full list of publications see [Google Scholar](https://scholar.google.com/citations?user=sL4lQYIAAAAJ&hl=en&oi=ao)
 
 Recent publications include
 

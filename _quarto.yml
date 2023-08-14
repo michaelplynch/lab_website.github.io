@@ -9,7 +9,7 @@ website:
     type: overlay
     
   favicon:  contents/logo/helix/favicon.ico
-  site-url: https://github.com/CompOnco/
+  site-url: https://CompOnco.github.io/
 
   navbar:
     background: primary
@@ -20,7 +20,7 @@ website:
         href: https://twitter.com/aedinculhane
         aria-label: Twitter
       - icon: github
-        href: https://github.com/CompOnco/
+        href: https://github.com/CompOnco/lab_website/
         aria-label: GitHub
 
         
@@ -58,7 +58,7 @@ website:
       - icon: github
         menu:
           - text: Report a Bug
-            url:  https://github.com/CompOnco
+            url:  https://github.com/CompOnco/lab_website/issues
    
   
   page-footer:
@@ -75,7 +75,7 @@ website:
         href: https://twitter.com/aedinculhane
         aria-label: CulhaneLab Twitter
       - icon: github
-        href: https://github.com/CompOnco
+        href: https://github.com/CompOnco/lab_website/
         aria-label: CulhaneLab GitHub
     right: UL 
      [![](contents/logo/LDCRC_Logo_fixed.jpg){fig-alt="LDCRC" width=150px}]
@@ -86,7 +86,6 @@ repo-url: https://github.com/CompOnco
 repo-actions: [edit, issue]
   
 
-#site-url: https://CancereHealthHub.com
   
 twitter-card: 
   creator: "@AedinCulhane"
