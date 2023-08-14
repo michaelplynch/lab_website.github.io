@@ -33,7 +33,7 @@ categories:
 
 ## Mr Michael Lynch
 
-Michael is developing methods for multi omics integration of single cell data from the [Kidney Cancer CAR T-Cell project](../Projects/kidneyCancer.html)
+Michael is developing methods for multi-omics integration of single cell data from the [Kidney Cancer CAR T-Cell project](../Projects/kidneyCancer.html)
 
 ## Links
 
