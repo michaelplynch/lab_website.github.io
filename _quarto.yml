@@ -98,7 +98,7 @@ format:
     theme: flatly
     css: styles.css
     toc: true
-    include-after-body: footer.qmd
+    include-after-body: footer.html
 
 
 editor: visual
