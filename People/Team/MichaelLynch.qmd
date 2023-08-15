@@ -1,5 +1,5 @@
 ---
-title: Mr Michael Lynch
+title: Mr. Michael Lynch
 about:
   template: solana
   image-width: 10em
