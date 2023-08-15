@@ -21,7 +21,7 @@ about:
       text: email
       href: mailto:MichaeldotLynch@ul.ie
 description: 
-  Graduate Student. Co Supervisor Laurent Gatto
+  Graduate Student, Co Supervisor Laurent Gatto
 image: ../../contents/photos/people/michaellynch.jpeg
 card_style: "summary_large_image"
 categories:
