@@ -9,7 +9,7 @@ website:
     type: overlay
     
   favicon:  contents/logo/helix/favicon.ico
-  site-url: https://CompOnco.github.io/
+  site-url: https://componco.github.io/lab_website.github.io/
 
   navbar:
     background: primary
