@@ -59,7 +59,9 @@ website:
         menu:
           - text: Report a Bug
             url:  https://github.com/CompOnco/lab_website/issues
-   
+
+  body-footer:
+      file: footer.qmd
   
   page-footer:
     left: 
@@ -98,7 +100,6 @@ format:
     theme: flatly
     css: styles.css
     toc: true
-    include-after-body: footer.qmd
 
 
 editor: visual
