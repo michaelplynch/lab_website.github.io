@@ -79,7 +79,7 @@ website:
       - icon: github
         href: https://github.com/CompOnco/lab_website/
         aria-label: CulhaneLab GitHub
-    right: UL 
+    right: 
      [![](contents/logo/LDCRC_Logo_fixed.jpg){fig-alt="LDCRC" width=150px}]
       
       
