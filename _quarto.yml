@@ -61,7 +61,7 @@ website:
             url:  https://github.com/CompOnco/lab_website/issues
 
   body-footer: 
-    footer.qmd
+    footer.md
   
   page-footer:
     left: 
