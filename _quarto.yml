@@ -60,7 +60,7 @@ website:
           - text: Report a Bug
             url:  https://github.com/CompOnco/lab_website/issues
 
-  body-footer: |
+  body-footer: 
       footer.qmd
   
   page-footer:
