@@ -1,9 +1,12 @@
+---
+title: footer
+---
 
-````{r}
+```{r}
 
 print(seq(1,10))
 
-````
+```
 
 ![](contents/logo/LDCRC_Logo_fixed.jpg "Limerick Digital Cancer Research Center"){width="50"}
 
