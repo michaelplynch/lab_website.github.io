@@ -1,4 +1,10 @@
 
+````{r}
+
+print(seq(1,10))
+
+````
+
 ![](contents/logo/LDCRC_Logo_fixed.jpg "Limerick Digital Cancer Research Center"){width="50"}
 
 ![](contents/logo/bioconductor_logo_cmyk.png "Bioconductor"){width="50"}
