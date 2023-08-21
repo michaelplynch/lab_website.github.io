@@ -3,11 +3,11 @@ project:
   output-dir: docs
   
 website:
-  title: "Computational Oncology"
+  title: "Culhane Lab"
   search: 
     location: navbar
     type: overlay
-    
+  reader-mode: true
   favicon:  contents/logo/helix/favicon.ico
   site-url: https://componco.github.io/lab_website.github.io/
 
@@ -45,11 +45,10 @@ website:
         file: positions.qmd
 
   sidebar:
-    contents:
-      - section: News
-        contents: News
-      - section: People
-        contents: People
+    contents: 
+      - People
+      - News
+
         
     style: "docked"
     tools:
@@ -60,29 +59,22 @@ website:
           - text: Report a Bug
             url:  https://github.com/CompOnco/lab_website/issues
 
-  body-footer: 
-    footer.qmd
   
   page-footer:
     left: 
       - text: "@Culhane Lab"
-    center:
-      - text: "People"
-        href: people.qmd
-      - text: "Research"
-        href: projects.qmd
-      - text: "News"
-        href: news.qmd
-      - icon: twitter
-        href: https://twitter.com/aedinculhane
-        aria-label: CulhaneLab Twitter
-      - icon: github
-        href: https://github.com/CompOnco/lab_website/
-        aria-label: CulhaneLab GitHub
-    right: UL 
-     [![](contents/logo/LDCRC_Logo_fixed.jpg){fig-alt="LDCRC" width=150px}]
-      
-      
+    center: |
+      ![](contents/logo/LDCRC_Logo_fixed.jpg "Limerick Digital Cancer Research Center"){height="40"}
+      ![](contents/logo/bioconductor_logo_cmyk.png "Bioconductor"){height="40"}
+      ![](contents/logo/eHealthHub_logo.png "eHealthHub For Cancer"){height="40"}
+      ![](contents/logo/Elixir_logo-3927606181.png "ELIXIR"){height="40"}
+      ![](contents/logo/OHDSI.jpeg "OHDSI Real World Data"){height="40"}
+      ![](contents/logo/NasPro.png "National Spatial Tissue Profiling Platform"){height="40"}
+      ![](contents/logo/NSRP_Logo.png){height="40"}
+    right: |
+     ![](contents/logo/LDCRC_Logo_fixed.jpg){fig-alt="LDCRC" width=150px}
+
+
     
 repo-url: https://github.com/CompOnco
 repo-actions: [edit, issue]

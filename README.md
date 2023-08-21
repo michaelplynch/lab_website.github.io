@@ -38,3 +38,5 @@ quatro preview
 ### Using Markdown
 
 Quatro makes extensive use of Markdown, a plain text format that is designed to be easy to read and write. Their website has a [markdown basics](https://quarto.org/docs/authoring/markdown-basics.html) page that may be helpful when editing this website.
+
+
