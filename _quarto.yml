@@ -45,8 +45,10 @@ website:
         file: positions.qmd
 
   sidebar:
-    contents: People
-    contents: News
+    contents: 
+      - People
+      - News
+
         
     style: "docked"
     tools:
