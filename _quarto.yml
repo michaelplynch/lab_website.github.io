@@ -47,9 +47,9 @@ website:
   sidebar:
     contents:
       - section: "News"
-        contents: News
+        contents: news.qmd
       - section: "People"
-        contents: People
+        contents: people.qmd
         
     style: "docked"
     tools:
