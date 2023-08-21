@@ -60,25 +60,18 @@ website:
           - text: Report a Bug
             url:  https://github.com/CompOnco/lab_website/issues
 
-  body-footer: 
-    footer.qmd
   
   page-footer:
     left: 
       - text: "@Culhane Lab"
-    center:
-      - text: "People"
-        href: people.qmd
-      - text: "Research"
-        href: projects.qmd
-      - text: "News"
-        href: news.qmd
-      - icon: twitter
-        href: https://twitter.com/aedinculhane
-        aria-label: CulhaneLab Twitter
-      - icon: github
-        href: https://github.com/CompOnco/lab_website/
-        aria-label: CulhaneLab GitHub
+    center: |
+        ![](contents/logo/LDCRC_Logo_fixed.jpg "Limerick Digital Cancer Research Center"){width="50"}
+        ![](contents/logo/bioconductor_logo_cmyk.png "Bioconductor"){width="50"}
+        ![](contents/logo/eHealthHub_logo.png "eHealthHub For Cancer"){width="50"}
+        ![](contents/logo/Elixir_logo-3927606181.png "ELIXIR"){width="50"}
+        ![](contents/logo/OHDSI.jpeg "OHDSI Real World Data"){width="50"}
+        ![](contents/logo/NasPro.png "National Spatial Tissue Profiling Platform"){width="50"}
+        ![](contents/logo/NSRP_Logo.png){width="100"}
     right: |
      ![](contents/logo/LDCRC_Logo_fixed.jpg){fig-alt="LDCRC" width=150px}
 
