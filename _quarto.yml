@@ -46,10 +46,10 @@ website:
 
   sidebar:
     contents:
-      - section: "News"
-        contents: news.qmd
-      - section: "People"
-        contents: people.qmd
+      - section: News
+        contents: News
+      - section: People
+        contents: People
         
     style: "docked"
     tools:
