@@ -46,10 +46,8 @@ website:
 
   sidebar:
     contents:
-      - section: News
-        contents: News
-      - section: People
-        contents: People
+      - People
+      - News
         
     style: "docked"
     tools:
