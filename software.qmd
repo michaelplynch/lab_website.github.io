@@ -40,6 +40,6 @@ BIRSBiointegration.
 
 # Workshops
 
-Hitchhikers Guide to PCA
+[Hitchhiker’s Guide to Matrix Factorization and PCA](https://aedin.github.io/PCAworkshop/)
 
 Quick guide to scRNAseq
